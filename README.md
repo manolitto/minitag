@@ -11,7 +11,7 @@
 
 ## About
 
-Inspired by creature number tokens and marker rings I wanted to have more convenient number tokens for my D&D creatures. Since most of my monster and enemy minis already have magnetic bases, I ended up with these generic number slots which securely hold my minis during game play by means of tiny magnets.
+Inspired by creature number tokens and marker rings I wanted to have more convenient number tokens for my D&D creatures. Since most of my monster and enemy minis already have [magnetic bases](https://github.com/manolitto/minibase), I ended up with these generic number slots which securely hold my minis during game play by means of tiny magnets.
 
 #### Key features:
 
@@ -33,4 +33,4 @@ You can find the latest release [here](https://github.com/manolitto/minitag/rele
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OpenVLex 2</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">MiniTag</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
