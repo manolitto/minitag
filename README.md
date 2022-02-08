@@ -27,7 +27,7 @@ You can find the latest release [here](https://github.com/manolitto/minitag/rele
 
 **Question:** What size of magnets are the cylinder cut outs meant for?
 
-**Answer:** I use axially magnetized 3mm x 1mm N42 neodymium magnets like [these here](https://www.amazon.de/dp/B007JTKMA8/).
+**Answer:** I use axially magnetized 3mm x 2mm N42 neodymium magnets like [these here](https://smile.amazon.de/dp/B003BKPIN0).
 
 ---
 
